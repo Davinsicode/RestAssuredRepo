@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Authentications.CoopApi">
+      <class name="SchemaValidation.Schema">
         <methods>
-          <include name="generateToken"/>
+          <include name="sample"/>
         </methods>
-      </class> <!-- Authentications.CoopApi -->
+      </class> <!-- SchemaValidation.Schema -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

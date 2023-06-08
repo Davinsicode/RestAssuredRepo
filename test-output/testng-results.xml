@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-06T13:16:17 IST" name="Default suite" finished-at="2023-06-06T13:16:39 IST" duration-ms="21388">
+  <suite started-at="2023-06-07T17:46:39 IST" name="Default suite" finished-at="2023-06-07T17:46:43 IST" duration-ms="3650">
     <groups>
     </groups>
-    <test started-at="2023-06-06T13:16:17 IST" name="Default test" finished-at="2023-06-06T13:16:39 IST" duration-ms="21388">
-      <class name="Authentications.CoopApi">
-        <test-method signature="generateToken()[pri:0, instance:Authentications.CoopApi@5f9b2141]" started-at="2023-06-06T13:16:17 IST" name="generateToken" finished-at="2023-06-06T13:16:38 IST" duration-ms="21127" status="PASS">
+    <test started-at="2023-06-07T17:46:39 IST" name="Default test" finished-at="2023-06-07T17:46:43 IST" duration-ms="3650">
+      <class name="Serialization_DeSerialization.DeSerializingTheArrayObject">
+        <test-method signature="readData()[pri:0, instance:Serialization_DeSerialization.DeSerializingTheArrayObject@5403f35f]" started-at="2023-06-07T17:46:39 IST" name="readData" finished-at="2023-06-07T17:46:43 IST" duration-ms="3209" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- generateToken -->
-      </class> <!-- Authentications.CoopApi -->
+        </test-method> <!-- readData -->
+      </class> <!-- Serialization_DeSerialization.DeSerializingTheArrayObject -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -11,6 +11,7 @@ public class getMethod
 @Test
 public void getData()
 {
+	
 	Response res = when().get("http://rmgtestingserver:8084/projects/TY_PROJ_7363");
 	
 	System.out.println(res.contentType()); 
